@@ -21,8 +21,8 @@
 5. Admin Portal: An exclusive admin portal is included in the project, allowing site administrators to manage website dynamics efficiently. This includes tasks such as disseminating announcements, moderating user accounts, and responding to inquiries submitted through the contact form.
 6. Database Design and Management: The project employs a MySQL database hosted on XAMPP, featuring a meticulously crafted data model comprising tables for user authentication, news feeds, form submissions, and administrative functions. This facilitates efficient data management and seamless functionality within the system.
 
-## Home Page ScreenShot
-![alt text](Webpage.jpg)
+## Project Demo Video
+<video controls src="Project Demo.mp4" title="Demo Video"></video>
 
 ## Concocted by the Ingenious Minds of Group Creator's,
 - Amrinder Singh
